@@ -13,5 +13,25 @@
     "email": "test2@test.com",
     "password": "0e04766d29a86fc1d904b15b363be574937aa04f42b886bad70d87d822a599758a56dfe360b2cdd1cfb7b6f32a41919f9bdb6ecb3c1c9e5adbaeaccd3f023d98.acdec31e3f89d4bb",
     "id": "ed95b929"
+  },
+  {
+    "email": "@asdasdasd",
+    "password": "196f3e7afa73b72ee3d6e5b47c539b6aa66a8203b3e16b42706af4011996eead78d3c46d523f582026141c5929efaa58064880a26717904155ac6e3a7ddb67e8.4a36a4dffb7de1b5",
+    "id": "de434cec"
+  },
+  {
+    "email": "@adasdasd",
+    "password": "2fcd809bdbbe696e012944008127e9c1e38c5f9e49b143730f66224638a2ef35842342cec54198cdf1d77d98ba9971f8e4ef5d51d14cf3ae0e70ec972f54339a.09333c7dd5359534",
+    "id": "5859c89f"
+  },
+  {
+    "email": "@adasdadaweqwe",
+    "password": "d50c64bff7bd07dd32b95d591e4ef4ec246b0dd84aa05e1aa6169c384e0f78bb9d712c33f7c8613ddf18d7be2a7f15c2b932b5856ede9643a52000b0a46199fb.a507548d4bdd93f3",
+    "id": "3f63845f"
+  },
+  {
+    "email": "adasdadaweqwe@sadas.com",
+    "password": "11442ac0b38a18d32ec0c23b81e2f111169bd192b883e46176b364c8662ff7437b1a6d8a5045c8a58d3b1b2eec4fe98aae0e0f3358ed552681185ce08c7970db.3d581ad9a69a3df9",
+    "id": "aa9ffa06"
   }
 ]
